@@ -4,7 +4,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fa-solid fa-graduation-cap"></i>
+                    <i class="fa fa-solid fa-graduation-cap"></i>
                 </div>
                 <div class="sidebar-brand-text mx-3">Sekolah Anjay</div>
             </a>
